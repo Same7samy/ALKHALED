@@ -1,0 +1,22 @@
+{
+  "short_name": "الخالد",
+  "name": "الخالد 2",
+  "description": "تطبيق نقاط بيع شامل مصمم للأجهزة المحمولة. يساعد في إدارة المبيعات والمخزون والعملاء ويقدم تقارير مفيدة. الواجهة باللغة العربية، باستخدام خط Cairo ونظام ألوان أزرق فاتح وأبيض.",
+  "icons": [
+    {
+      "src": "./icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#006eff",
+  "background_color": "#f8fafc"
+}
